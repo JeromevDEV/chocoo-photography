@@ -1,0 +1,90 @@
+.portfolio-container {
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+
+  .portfolio-picture-container {
+    margin-top: 20px;
+
+    width: 80%;
+    display: grid;
+    grid-gap: 10px;
+    grid-template-columns: repeat(auto-fit, minmax(10vw, 1fr));
+    grid-auto-rows: 10vw;
+    grid-auto-flow: row dense;
+
+    @media screen and (max-width: 800px) {
+      grid-template-columns: repeat(auto-fit, minmax(25vmin, 1fr));
+      grid-auto-rows: 25vmin;
+    }
+
+    .grow {
+      -webkit-transition: transform 0.5s;
+      -moz-transition: -moz-transform 0.5s;
+      -ms-transition: -ms-transform 0.5s;
+      transition: transform 0.5s;
+      image-rendering: smooth;
+      &:hover {
+        -webkit-transform: scale(1.5);
+        -moz-transform: scale(1.5);
+        -ms-transform: scale(1.5);
+        transform: scale(1.5);
+        z-index: 1;
+      }
+      @media screen and (max-width: 800px) {
+        -webkit-transition: transform 0.3s;
+        -moz-transition: -moz-transform 0.3s;
+        -ms-transition: -ms-transform 0.3s;
+        transition: transform 0.3s;
+        &:hover {
+          -webkit-transform: scale(1.25);
+          -moz-transform: scale(1.25);
+          -ms-transform: scale(1.25);
+          transform: scale(1.25);
+          z-index: 1;
+        }
+      }
+    }
+
+    .normal {
+      overflow: hidden;
+
+      display: flex;
+      align-items: center;
+      justify-content: center;
+
+      img {
+        width: auto;
+        height: 100%;
+        image-rendering: optimizeQuality;
+      }
+    }
+
+    .landscape {
+      grid-column: span 2;
+      overflow: hidden;
+      width: 100%;
+      display: flex;
+      align-items: center;
+
+      img {
+        width: 100%;
+        height: fit-content;
+        image-rendering: optimizeQuality;
+      }
+    }
+    .portrait {
+      overflow: hidden;
+      grid-row: span 2;
+      display: flex;
+      align-items: center;
+
+      img {
+        height: 100%;
+        width: fit-content;
+        image-rendering: optimizeQuality;
+      }
+    }
+  }
+}
