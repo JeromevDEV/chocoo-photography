@@ -1,7 +1,7 @@
 {
   "name": "chocoo_photography",
   "description": "My photography and art portfolio",
-  "homepage": "https://github.com/JeromevDEV/chocoos-photography",
+  "homepage": "https://github.com/JeromevDEV/chocoo-photography",
   "version" : "0.1.0",
   "private": false,
   "dependencies": {
