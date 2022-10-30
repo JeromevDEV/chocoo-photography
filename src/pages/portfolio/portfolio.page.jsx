@@ -43,9 +43,6 @@ const Portfolio = () => {
                 <div className="portrait grow">
                     <img src={glass} alt="Glass building, Barcelona"/>
                 </div>
-                <div className="portrait grow">
-                    <img src={invalides} alt="Invalides, Paris"/>
-                </div>
                 {/* <div className="normal grow">
           <img src={landscape28} alt="Portfolio pic" />
         </div> */}
