@@ -3,6 +3,8 @@ import nl from "../../assets/images/nl.jpg";
 import sagrada from "../../assets/images/sagrada_familia.png";
 import pave from "../../assets/images/pave.jpg";
 import tunnel from "../../assets/images/tunnel.jpg";
+import invalides from "../../assets/images/invalides.png";
+import paris from "../../assets/images/paris.jpg";
 
 import "./portfolio.page.styles.scss";
 
@@ -22,6 +24,12 @@ const Portfolio = () => {
                 </div>
                 <div className="portrait grow">
                     <img src={pave} alt="Close up"/>
+                </div>
+                <div className="portrait grow">
+                    <img src={invalides} alt="Invalides, Paris"/>
+                </div>
+                <div className="portrait grow">
+                    <img src={paris} alt="Eiffel Tower, Paris"/>
                 </div>
 
                 {/* <div className="normal grow">
