@@ -1,28 +1,28 @@
 {
   "files": {
-    "main.css": "/JeromevDEV/chocoo-photography/static/css/main.062e02fe.chunk.css",
-    "main.js": "/JeromevDEV/chocoo-photography/static/js/main.a9a02b8c.chunk.js",
-    "main.js.map": "/JeromevDEV/chocoo-photography/static/js/main.a9a02b8c.chunk.js.map",
-    "runtime-main.js": "/JeromevDEV/chocoo-photography/static/js/runtime-main.ead822f0.js",
-    "runtime-main.js.map": "/JeromevDEV/chocoo-photography/static/js/runtime-main.ead822f0.js.map",
-    "static/js/2.b9e3816d.chunk.js": "/JeromevDEV/chocoo-photography/static/js/2.b9e3816d.chunk.js",
-    "static/js/2.b9e3816d.chunk.js.map": "/JeromevDEV/chocoo-photography/static/js/2.b9e3816d.chunk.js.map",
-    "static/js/3.c3a418a3.chunk.js": "/JeromevDEV/chocoo-photography/static/js/3.c3a418a3.chunk.js",
-    "static/js/3.c3a418a3.chunk.js.map": "/JeromevDEV/chocoo-photography/static/js/3.c3a418a3.chunk.js.map",
-    "index.html": "/JeromevDEV/chocoo-photography/index.html",
-    "static/css/main.062e02fe.chunk.css.map": "/JeromevDEV/chocoo-photography/static/css/main.062e02fe.chunk.css.map",
-    "static/js/2.b9e3816d.chunk.js.LICENSE.txt": "/JeromevDEV/chocoo-photography/static/js/2.b9e3816d.chunk.js.LICENSE.txt",
-    "static/media/About.0104a433.png": "/JeromevDEV/chocoo-photography/static/media/About.0104a433.png",
-    "static/media/home.page.styles.scss": "/JeromevDEV/chocoo-photography/static/media/landscape0.c032c416.jpg",
-    "static/media/nl.1f99bfce.jpg": "/JeromevDEV/chocoo-photography/static/media/nl.1f99bfce.jpg",
-    "static/media/pave.814fe90d.jpg": "/JeromevDEV/chocoo-photography/static/media/pave.814fe90d.jpg",
-    "static/media/sagrada_familia.4d4dfb0f.png": "/JeromevDEV/chocoo-photography/static/media/sagrada_familia.4d4dfb0f.png",
-    "static/media/tunnel.1c60875d.jpg": "/JeromevDEV/chocoo-photography/static/media/tunnel.1c60875d.jpg"
+    "main.css": "/chocoo-photography/static/css/main.6c518ece.chunk.css",
+    "main.js": "/chocoo-photography/static/js/main.a9a02b8c.chunk.js",
+    "main.js.map": "/chocoo-photography/static/js/main.a9a02b8c.chunk.js.map",
+    "runtime-main.js": "/chocoo-photography/static/js/runtime-main.5f034e60.js",
+    "runtime-main.js.map": "/chocoo-photography/static/js/runtime-main.5f034e60.js.map",
+    "static/js/2.b9e3816d.chunk.js": "/chocoo-photography/static/js/2.b9e3816d.chunk.js",
+    "static/js/2.b9e3816d.chunk.js.map": "/chocoo-photography/static/js/2.b9e3816d.chunk.js.map",
+    "static/js/3.c3a418a3.chunk.js": "/chocoo-photography/static/js/3.c3a418a3.chunk.js",
+    "static/js/3.c3a418a3.chunk.js.map": "/chocoo-photography/static/js/3.c3a418a3.chunk.js.map",
+    "index.html": "/chocoo-photography/index.html",
+    "static/css/main.6c518ece.chunk.css.map": "/chocoo-photography/static/css/main.6c518ece.chunk.css.map",
+    "static/js/2.b9e3816d.chunk.js.LICENSE.txt": "/chocoo-photography/static/js/2.b9e3816d.chunk.js.LICENSE.txt",
+    "static/media/About.0104a433.png": "/chocoo-photography/static/media/About.0104a433.png",
+    "static/media/home.page.styles.scss": "/chocoo-photography/static/media/landscape0.c032c416.jpg",
+    "static/media/nl.1f99bfce.jpg": "/chocoo-photography/static/media/nl.1f99bfce.jpg",
+    "static/media/pave.814fe90d.jpg": "/chocoo-photography/static/media/pave.814fe90d.jpg",
+    "static/media/sagrada_familia.4d4dfb0f.png": "/chocoo-photography/static/media/sagrada_familia.4d4dfb0f.png",
+    "static/media/tunnel.1c60875d.jpg": "/chocoo-photography/static/media/tunnel.1c60875d.jpg"
   },
   "entrypoints": [
-    "static/js/runtime-main.ead822f0.js",
+    "static/js/runtime-main.5f034e60.js",
     "static/js/2.b9e3816d.chunk.js",
-    "static/css/main.062e02fe.chunk.css",
+    "static/css/main.6c518ece.chunk.css",
     "static/js/main.a9a02b8c.chunk.js"
   ]
 }
