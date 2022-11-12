@@ -52,7 +52,7 @@ const Portfolio = () => {
                 <div className="portrait grow">
                     <img src={flims} alt="Flims lake, Switzerland"/>
                 </div>
-                <div className="paysage grow">
+                <div className="landscape grow">
                     <img src={tseuzier} alt="Tseuzier lake, Switzerland"/>
                 </div>
                 {/* <div className="normal grow">
