@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/chocoo-photography/static/css/main.6c518ece.chunk.css",
-    "main.js": "/chocoo-photography/static/js/main.e724c851.chunk.js",
-    "main.js.map": "/chocoo-photography/static/js/main.e724c851.chunk.js.map",
+    "main.js": "/chocoo-photography/static/js/main.12933799.chunk.js",
+    "main.js.map": "/chocoo-photography/static/js/main.12933799.chunk.js.map",
     "runtime-main.js": "/chocoo-photography/static/js/runtime-main.5f034e60.js",
     "runtime-main.js.map": "/chocoo-photography/static/js/runtime-main.5f034e60.js.map",
     "static/js/2.b9e3816d.chunk.js": "/chocoo-photography/static/js/2.b9e3816d.chunk.js",
@@ -31,6 +31,6 @@
     "static/js/runtime-main.5f034e60.js",
     "static/js/2.b9e3816d.chunk.js",
     "static/css/main.6c518ece.chunk.css",
-    "static/js/main.e724c851.chunk.js"
+    "static/js/main.12933799.chunk.js"
   ]
 }
