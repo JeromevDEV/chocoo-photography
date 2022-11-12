@@ -8,6 +8,9 @@ import paris from "../../assets/images/paris.jpg";
 import church from "../../assets/images/church_inside.jpg";
 import glass from "../../assets/images/glass_building.jpg";
 import dragon from "../../assets/images/dragon_building.jpg";
+import tseuzier from "../../assets/images/tseuzier.png";
+import canette from "../../assets/images/canettes.png";
+import flims from "../../assets/images/flims_1.png";
 
 import "./portfolio.page.styles.scss";
 
@@ -42,6 +45,15 @@ const Portfolio = () => {
                 </div>
                 <div className="portrait grow">
                     <img src={glass} alt="Glass building, Barcelona"/>
+                </div>
+                <div className="portrait grow">
+                    <img src={canette} alt="Street Art, Barcelona"/>
+                </div>
+                <div className="portrait grow">
+                    <img src={flims} alt="Flims lake, Switzerland"/>
+                </div>
+                <div className="paysage grow">
+                    <img src={tseuzier} alt="Tseuzier lake, Switzerland"/>
                 </div>
                 {/* <div className="normal grow">
           <img src={landscape28} alt="Portfolio pic" />
