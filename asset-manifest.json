@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/chocoo-photography/static/css/main.6c518ece.chunk.css",
-    "main.js": "/chocoo-photography/static/js/main.12933799.chunk.js",
-    "main.js.map": "/chocoo-photography/static/js/main.12933799.chunk.js.map",
+    "main.js": "/chocoo-photography/static/js/main.ed50bafe.chunk.js",
+    "main.js.map": "/chocoo-photography/static/js/main.ed50bafe.chunk.js.map",
     "runtime-main.js": "/chocoo-photography/static/js/runtime-main.5f034e60.js",
     "runtime-main.js.map": "/chocoo-photography/static/js/runtime-main.5f034e60.js.map",
     "static/js/2.b9e3816d.chunk.js": "/chocoo-photography/static/js/2.b9e3816d.chunk.js",
@@ -14,13 +14,22 @@
     "static/js/2.b9e3816d.chunk.js.LICENSE.txt": "/chocoo-photography/static/js/2.b9e3816d.chunk.js.LICENSE.txt",
     "static/media/About.0104a433.png": "/chocoo-photography/static/media/About.0104a433.png",
     "static/media/canettes.4bedc98b.png": "/chocoo-photography/static/media/canettes.4bedc98b.png",
+    "static/media/church.3ccf1e8e.png": "/chocoo-photography/static/media/church.3ccf1e8e.png",
+    "static/media/church_2.e0c24a06.png": "/chocoo-photography/static/media/church_2.e0c24a06.png",
     "static/media/church_inside.cb1ccc5f.jpg": "/chocoo-photography/static/media/church_inside.cb1ccc5f.jpg",
     "static/media/dragon_building.c6e0f76f.jpg": "/chocoo-photography/static/media/dragon_building.c6e0f76f.jpg",
     "static/media/flims_1.dd3ed703.png": "/chocoo-photography/static/media/flims_1.dd3ed703.png",
     "static/media/glass_building.a026e582.jpg": "/chocoo-photography/static/media/glass_building.a026e582.jpg",
     "static/media/invalides.b6016007.png": "/chocoo-photography/static/media/invalides.b6016007.png",
     "static/media/home.page.styles.scss": "/chocoo-photography/static/media/landscape0.c032c416.jpg",
+    "static/media/nice_orange.54e81efb.png": "/chocoo-photography/static/media/nice_orange.54e81efb.png",
+    "static/media/nice_umbrella.3499a43b.png": "/chocoo-photography/static/media/nice_umbrella.3499a43b.png",
+    "static/media/nice_water.fbb05861.png": "/chocoo-photography/static/media/nice_water.fbb05861.png",
     "static/media/nl.1f99bfce.jpg": "/chocoo-photography/static/media/nl.1f99bfce.jpg",
+    "static/media/nl_cathedrale_db.669f6f41.png": "/chocoo-photography/static/media/nl_cathedrale_db.669f6f41.png",
+    "static/media/nl_roof_db.75c45f10.png": "/chocoo-photography/static/media/nl_roof_db.75c45f10.png",
+    "static/media/nl_water_db.e38f8e55.png": "/chocoo-photography/static/media/nl_water_db.e38f8e55.png",
+    "static/media/nl_water_rosmalen.44c7ec11.png": "/chocoo-photography/static/media/nl_water_rosmalen.44c7ec11.png",
     "static/media/paris.b164f66f.jpg": "/chocoo-photography/static/media/paris.b164f66f.jpg",
     "static/media/pave.814fe90d.jpg": "/chocoo-photography/static/media/pave.814fe90d.jpg",
     "static/media/sagrada_familia.4d4dfb0f.png": "/chocoo-photography/static/media/sagrada_familia.4d4dfb0f.png",
@@ -31,6 +40,6 @@
     "static/js/runtime-main.5f034e60.js",
     "static/js/2.b9e3816d.chunk.js",
     "static/css/main.6c518ece.chunk.css",
-    "static/js/main.12933799.chunk.js"
+    "static/js/main.ed50bafe.chunk.js"
   ]
 }
