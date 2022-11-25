@@ -11,6 +11,16 @@ import dragon from "../../assets/images/dragon_building.jpg";
 import tseuzier from "../../assets/images/tseuzier.png";
 import canette from "../../assets/images/canettes.png";
 import flims from "../../assets/images/flims_1.png";
+import church1 from "../../assets/images/church.png";
+import church2 from "../../assets/images/church_2.png";
+import nice_orange from "../../assets/images/nice_orange.png";
+import nice_umbrella from "../../assets/images/nice_umbrella.png";
+import nice_water from "../../assets/images/nice_water.png";
+import nl_cathedrale_db from "../../assets/images/nl_cathedrale_db.png";
+import nl_roof_db from "../../assets/images/nl_roof_db.png";
+import nl_water_db from "../../assets/images/nl_water_db.png";
+import nl_water_rosmalen from "../../assets/images/nl_water_rosmalen.png";
+
 
 import "./portfolio.page.styles.scss";
 
@@ -54,6 +64,33 @@ const Portfolio = () => {
                 </div>
                 <div className="landscape grow">
                     <img src={tseuzier} alt="Tseuzier lake, Switzerland"/>
+                </div>
+                <div className="portrait grow">
+                    <img src={church1} alt="Church, Switzerland"/>
+                </div>
+                <div className="portrait grow">
+                    <img src={church2} alt="Church, Switzerland"/>
+                </div>
+                <div className="portrait grow">
+                    <img src={nice_orange} alt="Old street, France"/>
+                </div>
+                <div className="portrait grow">
+                    <img src={nice_umbrella} alt="Umbrella street, France"/>
+                </div>
+                <div className="portrait grow">
+                    <img src={nice_water} alt="The sea of Nice, France"/>
+                </div>
+                <div className="portrait grow">
+                    <img src={nl_cathedrale_db} alt="Cathedral, Netherlands"/>
+                </div>
+                <div className="portrait grow">
+                    <img src={nl_roof_db} alt="Glass roof, Netherlands"/>
+                </div>
+                <div className="portrait grow">
+                    <img src={nl_water_db} alt="Holland's house, Netherlands"/>
+                </div>
+                <div className="portrait grow">
+                    <img src={nl_water_rosmalen} alt="Holland's house, Netherlands"/>
                 </div>
                 {/* <div className="normal grow">
           <img src={landscape28} alt="Portfolio pic" />
