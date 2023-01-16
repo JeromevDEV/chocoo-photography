@@ -21,6 +21,7 @@ import nl_roof_db from "../../assets/images/nl_roof_db.jpg";
 import nl_water_db from "../../assets/images/nl_water_db.jpg";
 import nl_water_rosmalen from "../../assets/images/nl_water_rosmalen.jpg";
 import ch_flon from "../../assets/images/flon_compressed.jpg";
+import ch_wall_murten from "../../assets/images/wall_c.png";
 
 import "./portfolio.page.styles.scss";
 
@@ -94,6 +95,9 @@ const Portfolio = () => {
                 </div>
                 <div className="portrait grow">
                     <img src={ch_flon} alt="Flon's street, Lausanne - Switzerland"/>
+                </div>
+                <div className="landscape grow">
+                    <img src={ch_wall_murten} alt="Wall, Murten - Switzerland"/>
                 </div>
                 {/* <div className="normal grow">
           <img src={landscape28} alt="Portfolio pic" />
