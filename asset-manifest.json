@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/chocoo-photography/static/css/main.384d4fd9.chunk.css",
-    "main.js": "/chocoo-photography/static/js/main.cbdf41d5.chunk.js",
-    "main.js.map": "/chocoo-photography/static/js/main.cbdf41d5.chunk.js.map",
+    "main.js": "/chocoo-photography/static/js/main.d7b5234f.chunk.js",
+    "main.js.map": "/chocoo-photography/static/js/main.d7b5234f.chunk.js.map",
     "runtime-main.js": "/chocoo-photography/static/js/runtime-main.5f034e60.js",
     "runtime-main.js.map": "/chocoo-photography/static/js/runtime-main.5f034e60.js.map",
     "static/js/2.b9e3816d.chunk.js": "/chocoo-photography/static/js/2.b9e3816d.chunk.js",
@@ -19,6 +19,7 @@
     "static/media/church_inside.b8d2f401.jpg": "/chocoo-photography/static/media/church_inside.b8d2f401.jpg",
     "static/media/dragon_building.62ece786.jpg": "/chocoo-photography/static/media/dragon_building.62ece786.jpg",
     "static/media/flims_1.4599b914.jpg": "/chocoo-photography/static/media/flims_1.4599b914.jpg",
+    "static/media/flon_compressed.b57906a0.jpg": "/chocoo-photography/static/media/flon_compressed.b57906a0.jpg",
     "static/media/glass_building.e75976e5.jpg": "/chocoo-photography/static/media/glass_building.e75976e5.jpg",
     "static/media/invalides.b56b0601.jpg": "/chocoo-photography/static/media/invalides.b56b0601.jpg",
     "static/media/home.page.styles.scss": "/chocoo-photography/static/media/landscape0.71f07848.jpg",
@@ -34,12 +35,13 @@
     "static/media/pave.ec108d0d.jpg": "/chocoo-photography/static/media/pave.ec108d0d.jpg",
     "static/media/sagrada_familia.af4cb066.jpg": "/chocoo-photography/static/media/sagrada_familia.af4cb066.jpg",
     "static/media/tseuzier.beff72ad.jpg": "/chocoo-photography/static/media/tseuzier.beff72ad.jpg",
-    "static/media/tunnel.0808132c.jpg": "/chocoo-photography/static/media/tunnel.0808132c.jpg"
+    "static/media/tunnel.0808132c.jpg": "/chocoo-photography/static/media/tunnel.0808132c.jpg",
+    "static/media/wall_c.fd23abac.png": "/chocoo-photography/static/media/wall_c.fd23abac.png"
   },
   "entrypoints": [
     "static/js/runtime-main.5f034e60.js",
     "static/js/2.b9e3816d.chunk.js",
     "static/css/main.384d4fd9.chunk.css",
-    "static/js/main.cbdf41d5.chunk.js"
+    "static/js/main.d7b5234f.chunk.js"
   ]
 }
