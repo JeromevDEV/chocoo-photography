@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/chocoo-photography/static/css/main.384d4fd9.chunk.css",
-    "main.js": "/chocoo-photography/static/js/main.d7b5234f.chunk.js",
-    "main.js.map": "/chocoo-photography/static/js/main.d7b5234f.chunk.js.map",
+    "main.js": "/chocoo-photography/static/js/main.df36551b.chunk.js",
+    "main.js.map": "/chocoo-photography/static/js/main.df36551b.chunk.js.map",
     "runtime-main.js": "/chocoo-photography/static/js/runtime-main.5f034e60.js",
     "runtime-main.js.map": "/chocoo-photography/static/js/runtime-main.5f034e60.js.map",
     "static/js/2.b9e3816d.chunk.js": "/chocoo-photography/static/js/2.b9e3816d.chunk.js",
@@ -14,6 +14,7 @@
     "static/js/2.b9e3816d.chunk.js.LICENSE.txt": "/chocoo-photography/static/js/2.b9e3816d.chunk.js.LICENSE.txt",
     "static/media/About.0104a433.png": "/chocoo-photography/static/media/About.0104a433.png",
     "static/media/canettes.9040e923.jpg": "/chocoo-photography/static/media/canettes.9040e923.jpg",
+    "static/media/cathedrale_rue-3D.6c2c974d.png": "/chocoo-photography/static/media/cathedrale_rue-3D.6c2c974d.png",
     "static/media/church.a7f8d7db.jpg": "/chocoo-photography/static/media/church.a7f8d7db.jpg",
     "static/media/church_2.d41d5a88.jpg": "/chocoo-photography/static/media/church_2.d41d5a88.jpg",
     "static/media/church_inside.b8d2f401.jpg": "/chocoo-photography/static/media/church_inside.b8d2f401.jpg",
@@ -33,6 +34,7 @@
     "static/media/nl_water_rosmalen.1afdfb3d.jpg": "/chocoo-photography/static/media/nl_water_rosmalen.1afdfb3d.jpg",
     "static/media/paris.8edeea79.jpg": "/chocoo-photography/static/media/paris.8edeea79.jpg",
     "static/media/pave.ec108d0d.jpg": "/chocoo-photography/static/media/pave.ec108d0d.jpg",
+    "static/media/poya_bw.5add0f9f.png": "/chocoo-photography/static/media/poya_bw.5add0f9f.png",
     "static/media/sagrada_familia.af4cb066.jpg": "/chocoo-photography/static/media/sagrada_familia.af4cb066.jpg",
     "static/media/tseuzier.beff72ad.jpg": "/chocoo-photography/static/media/tseuzier.beff72ad.jpg",
     "static/media/tunnel.0808132c.jpg": "/chocoo-photography/static/media/tunnel.0808132c.jpg",
@@ -42,6 +44,6 @@
     "static/js/runtime-main.5f034e60.js",
     "static/js/2.b9e3816d.chunk.js",
     "static/css/main.384d4fd9.chunk.css",
-    "static/js/main.d7b5234f.chunk.js"
+    "static/js/main.df36551b.chunk.js"
   ]
 }
