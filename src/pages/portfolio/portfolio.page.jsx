@@ -22,9 +22,9 @@ import nl_water_db from "../../assets/images/nl_water_db.jpg";
 import nl_water_rosmalen from "../../assets/images/nl_water_rosmalen.jpg";
 import ch_flon from "../../assets/images/flon_compressed.jpg";
 import ch_wall_murten from "../../assets/images/wall_c.png";
-
+import ch_cathedrale_3d from "../../assets/images/cathedrale_rue-3D.png";
+import ch_poya_bw from "../../assets/images/poya_bw.png";
 import "./portfolio.page.styles.scss";
-
 const Portfolio = () => {
     return (
         <div className="portfolio-container" id="portfolio">
@@ -98,6 +98,12 @@ const Portfolio = () => {
                 </div>
                 <div className="landscape grow">
                     <img src={ch_wall_murten} alt="Wall, Murten - Switzerland"/>
+                </div>
+                <div className="landscape grow">
+                    <img src={ch_poya_bw} alt="Poya bridge, Fribourg - Switzerland"/>
+                </div>
+                <div className="portrait grow">
+                    <img src={ch_cathedrale_3d} alt="St-Nicolas Cathedrale 3D, Fribourg - Switzerland"/>
                 </div>
                 {/* <div className="normal grow">
           <img src={landscape28} alt="Portfolio pic" />
