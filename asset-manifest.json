@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/chocoo-photography/static/css/main.384d4fd9.chunk.css",
-    "main.js": "/chocoo-photography/static/js/main.df36551b.chunk.js",
-    "main.js.map": "/chocoo-photography/static/js/main.df36551b.chunk.js.map",
+    "main.js": "/chocoo-photography/static/js/main.61cb9771.chunk.js",
+    "main.js.map": "/chocoo-photography/static/js/main.61cb9771.chunk.js.map",
     "runtime-main.js": "/chocoo-photography/static/js/runtime-main.5f034e60.js",
     "runtime-main.js.map": "/chocoo-photography/static/js/runtime-main.5f034e60.js.map",
     "static/js/2.b9e3816d.chunk.js": "/chocoo-photography/static/js/2.b9e3816d.chunk.js",
@@ -13,6 +13,7 @@
     "static/css/main.384d4fd9.chunk.css.map": "/chocoo-photography/static/css/main.384d4fd9.chunk.css.map",
     "static/js/2.b9e3816d.chunk.js.LICENSE.txt": "/chocoo-photography/static/js/2.b9e3816d.chunk.js.LICENSE.txt",
     "static/media/About.0104a433.png": "/chocoo-photography/static/media/About.0104a433.png",
+    "static/media/bern_maison_fleur.b04685e8.jpg": "/chocoo-photography/static/media/bern_maison_fleur.b04685e8.jpg",
     "static/media/canettes.9040e923.jpg": "/chocoo-photography/static/media/canettes.9040e923.jpg",
     "static/media/cathedrale_rue-3D.6c2c974d.png": "/chocoo-photography/static/media/cathedrale_rue-3D.6c2c974d.png",
     "static/media/church.a7f8d7db.jpg": "/chocoo-photography/static/media/church.a7f8d7db.jpg",
@@ -44,6 +45,6 @@
     "static/js/runtime-main.5f034e60.js",
     "static/js/2.b9e3816d.chunk.js",
     "static/css/main.384d4fd9.chunk.css",
-    "static/js/main.df36551b.chunk.js"
+    "static/js/main.61cb9771.chunk.js"
   ]
 }
