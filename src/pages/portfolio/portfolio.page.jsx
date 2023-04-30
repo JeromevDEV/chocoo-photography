@@ -25,6 +25,7 @@ import ch_wall_murten from "../../assets/images/wall_c.png";
 import ch_cathedrale_3d from "../../assets/images/cathedrale_rue-3D.png";
 import ch_poya_bw from "../../assets/images/poya_bw.png";
 import ch_bern_fleurs from "../../assets/images/bern_maison_fleur.jpg";
+import nl_flower from "../../assets/images/nl_flower.jpg";
 import "./portfolio.page.styles.scss";
 const Portfolio = () => {
     return (
@@ -108,6 +109,9 @@ const Portfolio = () => {
                 </div>
                 <div className="portrait grow">
                     <img src={ch_bern_fleurs} alt="Colored and floral house, Bern - Switzerland"/>
+                </div>
+                <div className="portrait grow">
+                    <img src={nl_flower} alt="Colored tulips, Amsterdam - Netherlands"/>
                 </div>
                 {/* <div className="normal grow">
           <img src={landscape28} alt="Portfolio pic" />
