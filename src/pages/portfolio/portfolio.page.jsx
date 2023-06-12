@@ -27,6 +27,24 @@ import ch_poya_bw from "../../assets/images/poya_bw.png";
 import ch_bern_fleurs from "../../assets/images/bern_maison_fleur.jpg";
 import nl_flower from "../../assets/images/nl_flower.jpg";
 import nl_flower_red from "../../assets/images/nl_flower_red.jpg";
+import bale_1 from "../../assets/images/Bale-1.jpg";
+import bale_2 from "../../assets/images/Bale-2.jpg";
+import bale_3 from "../../assets/images/Bale-3.jpg";
+import bale_4 from "../../assets/images/Bale-4.jpg";
+import bale_5 from "../../assets/images/Bale-5.jpg";
+import bale_6 from "../../assets/images/Bale-6.jpg";
+import bale_7 from "../../assets/images/Bale-7.jpg";
+import bale_8 from "../../assets/images/Bale-8.jpg";
+import bale_9 from "../../assets/images/Bale-9.jpg";
+import bale_10 from "../../assets/images/Bale-10.jpg";
+import bale_14 from "../../assets/images/Bale-14.jpg";
+import bale_16 from "../../assets/images/Bale-16.jpg";
+import bale_17 from "../../assets/images/Bale-17.jpg";
+import bale_18 from "../../assets/images/Bale-18.jpg";
+import bale_19 from "../../assets/images/Bale-19.jpg";
+import bale_20 from "../../assets/images/Bale-20.jpg";
+import bale_24 from "../../assets/images/Bale-24.jpg";
+
 import "./portfolio.page.styles.scss";
 const Portfolio = () => {
     return (
@@ -116,6 +134,57 @@ const Portfolio = () => {
                 </div>
                 <div className="portrait grow">
                     <img src={nl_flower_red} alt="Colored tulips, Amsterdam - Netherlands"/>
+                </div>
+                <div className="portrait grow">
+                    <img src={bale_1} alt="Herbal House, Fribourg - Switzerland"/>
+                </div>
+                <div className="portrait grow">
+                    <img src={bale_2} alt="The Face, Fribourg - Switzerland"/>
+                </div>
+                <div className="portrait grow">
+                    <img src={bale_3} alt="Flowered window, Basel - Switzerland"/>
+                </div>
+                <div className="portrait grow">
+                    <img src={bale_4} alt="Flowered corner, Fribourg - Switzerland"/>
+                </div>
+                <div className="normal grow">
+                    <img src={bale_5} alt="Sarine, Fribourg - Switzerland" />
+                </div>
+                <div className="portrait grow">
+                    <img src={bale_6} alt="Industrial building, Basel - Switzerland"/>
+                </div>
+                <div className="portrait grow">
+                    <img src={bale_7} alt="Flowered door, Basel - Switzerland"/>
+                </div>
+                <div className="portrait grow">
+                    <img src={bale_8} alt="Old house, Basel - Switzerland"/>
+                </div>
+                <div className="portrait grow">
+                    <img src={bale_9} alt="Colored house, Basel - Switzerland"/>
+                </div>
+                <div className="portrait grow">
+                    <img src={bale_10} alt="Flowered corner, Basel - Switzerland"/>
+                </div>
+                <div className="portrait grow">
+                    <img src={bale_14} alt="Church, Basel - Switzerland"/>
+                </div>
+                <div className="portrait grow">
+                    <img src={bale_16} alt="Musician, Basel - Switzerland"/>
+                </div>
+                <div className="portrait grow">
+                    <img src={bale_17} alt="Musician, Basel - Switzerland"/>
+                </div>
+                <div className="portrait grow">
+                    <img src={bale_18} alt="Crane, Basel - Switzerland"/>
+                </div>
+                <div className="normal grow">
+                    <img src={bale_19} alt="Camper, Basel - Switzerland" />
+                </div>
+                <div className="portrait grow">
+                    <img src={bale_20} alt="Metalic boat, Basel - Switzerland"/>
+                </div>
+                <div className="portrait grow">
+                    <img src={bale_24} alt="Church, Basel - Switzerland"/>
                 </div>
                 {/* <div className="normal grow">
           <img src={landscape28} alt="Portfolio pic" />
