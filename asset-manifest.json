@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/chocoo-photography/static/css/main.384d4fd9.chunk.css",
-    "main.js": "/chocoo-photography/static/js/main.f9dc0e10.chunk.js",
-    "main.js.map": "/chocoo-photography/static/js/main.f9dc0e10.chunk.js.map",
+    "main.js": "/chocoo-photography/static/js/main.c3d4f24b.chunk.js",
+    "main.js.map": "/chocoo-photography/static/js/main.c3d4f24b.chunk.js.map",
     "runtime-main.js": "/chocoo-photography/static/js/runtime-main.5f034e60.js",
     "runtime-main.js.map": "/chocoo-photography/static/js/runtime-main.5f034e60.js.map",
     "static/js/2.b9e3816d.chunk.js": "/chocoo-photography/static/js/2.b9e3816d.chunk.js",
@@ -13,6 +13,23 @@
     "static/css/main.384d4fd9.chunk.css.map": "/chocoo-photography/static/css/main.384d4fd9.chunk.css.map",
     "static/js/2.b9e3816d.chunk.js.LICENSE.txt": "/chocoo-photography/static/js/2.b9e3816d.chunk.js.LICENSE.txt",
     "static/media/About.0104a433.png": "/chocoo-photography/static/media/About.0104a433.png",
+    "static/media/Bale-1.b67b4c77.jpg": "/chocoo-photography/static/media/Bale-1.b67b4c77.jpg",
+    "static/media/Bale-10.b456060d.jpg": "/chocoo-photography/static/media/Bale-10.b456060d.jpg",
+    "static/media/Bale-14.a74eac75.jpg": "/chocoo-photography/static/media/Bale-14.a74eac75.jpg",
+    "static/media/Bale-16.6902973c.jpg": "/chocoo-photography/static/media/Bale-16.6902973c.jpg",
+    "static/media/Bale-17.d1329117.jpg": "/chocoo-photography/static/media/Bale-17.d1329117.jpg",
+    "static/media/Bale-18.2ca6cb07.jpg": "/chocoo-photography/static/media/Bale-18.2ca6cb07.jpg",
+    "static/media/Bale-19.94d91c62.jpg": "/chocoo-photography/static/media/Bale-19.94d91c62.jpg",
+    "static/media/Bale-2.3caa937c.jpg": "/chocoo-photography/static/media/Bale-2.3caa937c.jpg",
+    "static/media/Bale-20.6b893a01.jpg": "/chocoo-photography/static/media/Bale-20.6b893a01.jpg",
+    "static/media/Bale-24.e03bd18f.jpg": "/chocoo-photography/static/media/Bale-24.e03bd18f.jpg",
+    "static/media/Bale-3.80bef978.jpg": "/chocoo-photography/static/media/Bale-3.80bef978.jpg",
+    "static/media/Bale-4.b47fc4fa.jpg": "/chocoo-photography/static/media/Bale-4.b47fc4fa.jpg",
+    "static/media/Bale-5.ec50eeb6.jpg": "/chocoo-photography/static/media/Bale-5.ec50eeb6.jpg",
+    "static/media/Bale-6.7f65f150.jpg": "/chocoo-photography/static/media/Bale-6.7f65f150.jpg",
+    "static/media/Bale-7.a303364e.jpg": "/chocoo-photography/static/media/Bale-7.a303364e.jpg",
+    "static/media/Bale-8.3f352ef9.jpg": "/chocoo-photography/static/media/Bale-8.3f352ef9.jpg",
+    "static/media/Bale-9.cf9bef4e.jpg": "/chocoo-photography/static/media/Bale-9.cf9bef4e.jpg",
     "static/media/bern_maison_fleur.c88326a6.jpg": "/chocoo-photography/static/media/bern_maison_fleur.c88326a6.jpg",
     "static/media/canettes.9040e923.jpg": "/chocoo-photography/static/media/canettes.9040e923.jpg",
     "static/media/cathedrale_rue-3D.6c2c974d.png": "/chocoo-photography/static/media/cathedrale_rue-3D.6c2c974d.png",
@@ -47,6 +64,6 @@
     "static/js/runtime-main.5f034e60.js",
     "static/js/2.b9e3816d.chunk.js",
     "static/css/main.384d4fd9.chunk.css",
-    "static/js/main.f9dc0e10.chunk.js"
+    "static/js/main.c3d4f24b.chunk.js"
   ]
 }
