@@ -20,7 +20,7 @@ const Footer = () => {
                     <ul className="footer-icons">
                         <li className="social-icons">
                             <a
-                                href="https://twitter.com/DegenHunterSOL"
+                                href="https://twitter.com/chocoo_web3"
                                 style={{ color: "black" }}
                                 target="_blank"
                                 rel="noopener noreferrer"
@@ -30,7 +30,7 @@ const Footer = () => {
                         </li>
                         <li className="social-icons">
                             <a
-                                href="https://exchange.art/ChocooPanda/nfts"
+                                href="https://exchange.art/Chocoo/nfts"
                                 style={{ color: "black" }}
                                 target="_blank"
                                 rel="noopener noreferrer"
@@ -53,30 +53,6 @@ const Footer = () => {
 1 10 -1 13 -8 23 -7 67 3 79 10 12 9 13 -3 6 -12 -7 -13 -6 -2 6 10 11 57 15
 205 17 255 4 237 -13 237 228 0 146 3 185 15 197 8 8 12 17 10 19 -3 2 14 4
 38 4 28 -1 46 -7 55 -19z"/>
-                                    </g>
-                                </svg>
-                            </a>
-                        </li>
-                        <li className="social-icons">
-                            <a
-                                href="https://formfunction.xyz/@ChocooPanda"
-                                style={{ color: "black" }}
-                                target="_blank"
-                                rel="noopener noreferrer"
-                            >
-                                <svg version="1.0" xmlns="http://www.w3.org/2000/svg"
-                                     width="24pt" height="24pt" viewBox="0 0 200.000000 200.000000"
-                                     preserveAspectRatio="xMidYMid meet">
-
-                                    <g transform="translate(0.000000,200.000000) scale(0.100000,-0.100000)"
-                                       fill="#000000" stroke="none">
-                                        <path d="M0 1000 l0 -1000 1000 0 1000 0 0 1000 0 1000 -1000 0 -1000 0 0
--1000z m820 103 c0 -177 -4 -303 -11 -328 -22 -80 -137 -165 -223 -165 l-26 0
-0 298 c0 267 2 301 19 337 37 81 125 142 209 144 l32 1 0 -287z m320 5 c0
--164 -4 -299 -10 -320 -25 -90 -135 -178 -222 -178 l-38 0 0 278 c0 308 6 348
-60 414 37 45 121 88 172 88 l38 0 0 -282z m310 152 l0 -130 -130 0 -130 0 0
-130 0 130 130 0 130 0 0 -130z m-73 -199 c71 -33 95 -120 53 -189 -21 -34 -71
--62 -111 -62 -36 0 -90 32 -110 64 -41 67 -16 151 56 186 49 24 59 25 112 1z"/>
                                     </g>
                                 </svg>
                             </a>
