@@ -44,6 +44,15 @@ import bale_18 from "../../assets/images/Bale-18.jpg";
 import bale_19 from "../../assets/images/Bale-19.jpg";
 import bale_20 from "../../assets/images/Bale-20.jpg";
 import bale_24 from "../../assets/images/Bale-24.jpg";
+import annecy_2 from "../../assets/images/annecy-2.jpg";
+import annecy_4 from "../../assets/images/annecy-4.jpg";
+import annecy_27 from "../../assets/images/annecy-27.jpg";
+import annecy_29 from "../../assets/images/annecy-29.jpg";
+import n_s2023_3 from "../../assets/images/nl_s2023-3.jpg";
+import n_s2023_14 from "../../assets/images/nl_s2023-14.jpg";
+import n_s2023_21 from "../../assets/images/nl_s2023-21.jpg";
+import n_s2023_22 from "../../assets/images/nl_s2023-22.jpg";
+
 
 import "./portfolio.page.styles.scss";
 const Portfolio = () => {
@@ -185,6 +194,30 @@ const Portfolio = () => {
                 </div>
                 <div className="portrait grow">
                     <img src={bale_24} alt="Church, Basel - Switzerland"/>
+                </div>
+                <div className="portrait grow">
+                    <img src={annecy_2} alt="Old town, Annecy - France"/>
+                </div>
+                <div className="portrait grow">
+                    <img src={annecy_4} alt="Old town, Annecy - France"/>
+                </div>
+                <div className="portrait grow">
+                    <img src={annecy_27} alt="Sculpture, Annecy - France"/>
+                </div>
+                <div className="portrait grow">
+                    <img src={annecy_29} alt="Old town, Annecy - France"/>
+                </div>
+                <div className="portrait grow">
+                    <img src={n_s2023_3} alt="Lake, Murten - Switzerland"/>
+                </div>
+                <div className="portrait grow">
+                    <img src={n_s2023_14} alt="Cow, Schijndel - Netherlands"/>
+                </div>
+                <div className="portrait grow">
+                    <img src={n_s2023_21} alt="Windmill, De Kilsdonkse Molen - Netherlands"/>
+                </div>
+                <div className="portrait grow">
+                    <img src={n_s2023_22} alt="Windmill, De Kilsdonkse Molen - Netherlands"/>
                 </div>
                 {/* <div className="normal grow">
           <img src={landscape28} alt="Portfolio pic" />
