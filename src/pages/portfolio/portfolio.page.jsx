@@ -207,7 +207,7 @@ const Portfolio = () => {
                 <div className="portrait grow">
                     <img src={annecy_29} alt="Old town, Annecy - France"/>
                 </div>
-                <div className="portrait grow">
+                <div className="landscape grow">
                     <img src={n_s2023_3} alt="Lake, Murten - Switzerland"/>
                 </div>
                 <div className="portrait grow">
