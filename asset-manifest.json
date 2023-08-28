@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/chocoo-photography/static/css/main.384d4fd9.chunk.css",
-    "main.js": "/chocoo-photography/static/js/main.6ad1dc31.chunk.js",
-    "main.js.map": "/chocoo-photography/static/js/main.6ad1dc31.chunk.js.map",
+    "main.js": "/chocoo-photography/static/js/main.517c283b.chunk.js",
+    "main.js.map": "/chocoo-photography/static/js/main.517c283b.chunk.js.map",
     "runtime-main.js": "/chocoo-photography/static/js/runtime-main.5f034e60.js",
     "runtime-main.js.map": "/chocoo-photography/static/js/runtime-main.5f034e60.js.map",
     "static/js/2.b9e3816d.chunk.js": "/chocoo-photography/static/js/2.b9e3816d.chunk.js",
@@ -30,6 +30,10 @@
     "static/media/Bale-7.a303364e.jpg": "/chocoo-photography/static/media/Bale-7.a303364e.jpg",
     "static/media/Bale-8.3f352ef9.jpg": "/chocoo-photography/static/media/Bale-8.3f352ef9.jpg",
     "static/media/Bale-9.cf9bef4e.jpg": "/chocoo-photography/static/media/Bale-9.cf9bef4e.jpg",
+    "static/media/annecy-2.42ad7fd6.jpg": "/chocoo-photography/static/media/annecy-2.42ad7fd6.jpg",
+    "static/media/annecy-27.2a40ba12.jpg": "/chocoo-photography/static/media/annecy-27.2a40ba12.jpg",
+    "static/media/annecy-29.687e1520.jpg": "/chocoo-photography/static/media/annecy-29.687e1520.jpg",
+    "static/media/annecy-4.889fd633.jpg": "/chocoo-photography/static/media/annecy-4.889fd633.jpg",
     "static/media/bern_maison_fleur.c88326a6.jpg": "/chocoo-photography/static/media/bern_maison_fleur.c88326a6.jpg",
     "static/media/canettes.9040e923.jpg": "/chocoo-photography/static/media/canettes.9040e923.jpg",
     "static/media/cathedrale_rue-3D.6c2c974d.png": "/chocoo-photography/static/media/cathedrale_rue-3D.6c2c974d.png",
@@ -50,6 +54,10 @@
     "static/media/nl_flower.c1b5b932.jpg": "/chocoo-photography/static/media/nl_flower.c1b5b932.jpg",
     "static/media/nl_flower_red.3c668074.jpg": "/chocoo-photography/static/media/nl_flower_red.3c668074.jpg",
     "static/media/nl_roof_db.c34c151f.jpg": "/chocoo-photography/static/media/nl_roof_db.c34c151f.jpg",
+    "static/media/nl_s2023-14.4849d3bc.jpg": "/chocoo-photography/static/media/nl_s2023-14.4849d3bc.jpg",
+    "static/media/nl_s2023-21.c042c46f.jpg": "/chocoo-photography/static/media/nl_s2023-21.c042c46f.jpg",
+    "static/media/nl_s2023-22.7f88cac4.jpg": "/chocoo-photography/static/media/nl_s2023-22.7f88cac4.jpg",
+    "static/media/nl_s2023-3.a35b2363.jpg": "/chocoo-photography/static/media/nl_s2023-3.a35b2363.jpg",
     "static/media/nl_water_db.bb9bf965.jpg": "/chocoo-photography/static/media/nl_water_db.bb9bf965.jpg",
     "static/media/nl_water_rosmalen.1afdfb3d.jpg": "/chocoo-photography/static/media/nl_water_rosmalen.1afdfb3d.jpg",
     "static/media/paris.8edeea79.jpg": "/chocoo-photography/static/media/paris.8edeea79.jpg",
@@ -64,6 +72,6 @@
     "static/js/runtime-main.5f034e60.js",
     "static/js/2.b9e3816d.chunk.js",
     "static/css/main.384d4fd9.chunk.css",
-    "static/js/main.6ad1dc31.chunk.js"
+    "static/js/main.517c283b.chunk.js"
   ]
 }
