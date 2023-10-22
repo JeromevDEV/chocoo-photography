@@ -52,6 +52,16 @@ import n_s2023_3 from "../../assets/images/nl_s2023-3.jpg";
 import n_s2023_14 from "../../assets/images/nl_s2023-14.jpg";
 import n_s2023_21 from "../../assets/images/nl_s2023-21.jpg";
 import n_s2023_22 from "../../assets/images/nl_s2023-22.jpg";
+import bern_a_1 from "../../assets/images/a-1-2.jpg";
+import bern_a_2 from "../../assets/images/a-2-2.jpg";
+import bern_a_3 from "../../assets/images/a-3-2.jpg";
+import bern_a_4 from "../../assets/images/a-4-2.jpg";
+import bern_a_5 from "../../assets/images/a-5-2.jpg";
+import bern_a_6 from "../../assets/images/a-6-2.jpg";
+import bern_a_7 from "../../assets/images/a-7-2.jpg";
+import frib_a_1 from "../../assets/images/a-4.jpg";
+import frib_a_2 from "../../assets/images/a-8.jpg";
+import frib_a_3 from "../../assets/images/a-11.jpg";
 
 
 import "./portfolio.page.styles.scss";
@@ -218,6 +228,36 @@ const Portfolio = () => {
                 </div>
                 <div className="portrait grow">
                     <img src={n_s2023_22} alt="Windmill, De Kilsdonkse Molen - Netherlands"/>
+                </div>
+                <div className="portrait grow">
+                    <img src={bern_a_1} alt="House next to the Aare- Switzerland"/>
+                </div>
+                <div className="portrait grow">
+                    <img src={bern_a_2} alt="Aare bridge - Switzerland"/>
+                </div>
+                <div className="portrait grow">
+                    <img src={bern_a_3} alt="Bighorn - Switzerland"/>
+                </div>
+                <div className="portrait grow">
+                    <img src={bern_a_4} alt="Wild pig - Switzerland"/>
+                </div>
+                <div className="portrait grow">
+                    <img src={bern_a_5} alt="Aare with Federal Palace - Switzerland"/>
+                </div>
+                <div className="portrait grow">
+                    <img src={bern_a_6} alt="Federal Palace - Switzerland"/>
+                </div>
+                <div className="portrait grow">
+                    <img src={bern_a_7} alt="Architecture - Switzerland"/>
+                </div>
+                <div className="portrait grow">
+                    <img src={frib_a_1} alt="Lorette - Fribourg"/>
+                </div>
+                <div className="portrait grow">
+                    <img src={frib_a_2} alt="Dark academy vibes forest - Fribourg"/>
+                </div>
+                <div className="portrait grow">
+                    <img src={frib_a_3} alt="Autumn path - Fribourg"/>
                 </div>
                 {/* <div className="normal grow">
           <img src={landscape28} alt="Portfolio pic" />
