@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/chocoo-photography/static/css/main.384d4fd9.chunk.css",
-    "main.js": "/chocoo-photography/static/js/main.9d89f87a.chunk.js",
-    "main.js.map": "/chocoo-photography/static/js/main.9d89f87a.chunk.js.map",
+    "main.js": "/chocoo-photography/static/js/main.734681ce.chunk.js",
+    "main.js.map": "/chocoo-photography/static/js/main.734681ce.chunk.js.map",
     "runtime-main.js": "/chocoo-photography/static/js/runtime-main.5f034e60.js",
     "runtime-main.js.map": "/chocoo-photography/static/js/runtime-main.5f034e60.js.map",
     "static/js/2.b9e3816d.chunk.js": "/chocoo-photography/static/js/2.b9e3816d.chunk.js",
@@ -30,6 +30,16 @@
     "static/media/Bale-7.a303364e.jpg": "/chocoo-photography/static/media/Bale-7.a303364e.jpg",
     "static/media/Bale-8.3f352ef9.jpg": "/chocoo-photography/static/media/Bale-8.3f352ef9.jpg",
     "static/media/Bale-9.cf9bef4e.jpg": "/chocoo-photography/static/media/Bale-9.cf9bef4e.jpg",
+    "static/media/a-1-2.4b75d4a3.jpg": "/chocoo-photography/static/media/a-1-2.4b75d4a3.jpg",
+    "static/media/a-11.968fc80a.jpg": "/chocoo-photography/static/media/a-11.968fc80a.jpg",
+    "static/media/a-2-2.cdeaf3b9.jpg": "/chocoo-photography/static/media/a-2-2.cdeaf3b9.jpg",
+    "static/media/a-3-2.e678db8d.jpg": "/chocoo-photography/static/media/a-3-2.e678db8d.jpg",
+    "static/media/a-4-2.83b73b7e.jpg": "/chocoo-photography/static/media/a-4-2.83b73b7e.jpg",
+    "static/media/a-4.832acc74.jpg": "/chocoo-photography/static/media/a-4.832acc74.jpg",
+    "static/media/a-5-2.a761f654.jpg": "/chocoo-photography/static/media/a-5-2.a761f654.jpg",
+    "static/media/a-6-2.6389d8a5.jpg": "/chocoo-photography/static/media/a-6-2.6389d8a5.jpg",
+    "static/media/a-7-2.90e42c6c.jpg": "/chocoo-photography/static/media/a-7-2.90e42c6c.jpg",
+    "static/media/a-8.edcfcd37.jpg": "/chocoo-photography/static/media/a-8.edcfcd37.jpg",
     "static/media/annecy-2.42ad7fd6.jpg": "/chocoo-photography/static/media/annecy-2.42ad7fd6.jpg",
     "static/media/annecy-27.2a40ba12.jpg": "/chocoo-photography/static/media/annecy-27.2a40ba12.jpg",
     "static/media/annecy-29.687e1520.jpg": "/chocoo-photography/static/media/annecy-29.687e1520.jpg",
@@ -72,6 +82,6 @@
     "static/js/runtime-main.5f034e60.js",
     "static/js/2.b9e3816d.chunk.js",
     "static/css/main.384d4fd9.chunk.css",
-    "static/js/main.9d89f87a.chunk.js"
+    "static/js/main.734681ce.chunk.js"
   ]
 }
