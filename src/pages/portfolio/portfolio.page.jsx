@@ -62,6 +62,14 @@ import bern_a_7 from "../../assets/images/a-7-2.jpg";
 import frib_a_1 from "../../assets/images/a-4.jpg";
 import frib_a_2 from "../../assets/images/a-8.jpg";
 import frib_a_3 from "../../assets/images/a-11.jpg";
+import frankfurt_3 from "../../assets/images/frankfurt-3.jpg";
+import frankfurt_4 from "../../assets/images/frankfurt-4.jpg";
+import frankfurt_5 from "../../assets/images/frankfurt-5.jpg";
+import frankfurt_6 from "../../assets/images/frankfurt-6.jpg";
+import frankfurt_14 from "../../assets/images/frankfurt-14.jpg";
+import frankfurt_15 from "../../assets/images/frankfurt-15.jpg";
+import frankfurt_22 from "../../assets/images/frankfurt-22.jpg";
+import frankfurt_28 from "../../assets/images/frankfurt-28.jpg";
 
 
 import "./portfolio.page.styles.scss";
@@ -166,7 +174,7 @@ const Portfolio = () => {
                 <div className="portrait grow">
                     <img src={bale_4} alt="Flowered corner, Fribourg - Switzerland"/>
                 </div>
-                <div className="normal grow">
+                <div className="portrait grow">
                     <img src={bale_5} alt="Sarine, Fribourg - Switzerland" />
                 </div>
                 <div className="portrait grow">
@@ -258,6 +266,30 @@ const Portfolio = () => {
                 </div>
                 <div className="portrait grow">
                     <img src={frib_a_3} alt="Autumn path - Fribourg"/>
+                </div>
+                <div className="landscape grow">
+                    <img src={frankfurt_3} alt="Frankfurt - Germany"/>
+                </div>
+                <div className="landscape grow">
+                    <img src={frankfurt_4} alt="Frankfurt - Germany"/>
+                </div>
+                <div className="portrait grow">
+                    <img src={frankfurt_5} alt="Frankfurt - Germany"/>
+                </div>
+                <div className="portrait grow">
+                    <img src={frankfurt_6} alt="Frankfurt - Germany"/>
+                </div>
+                <div className="landscape grow">
+                    <img src={frankfurt_14} alt="Frankfurt - Germany"/>
+                </div>
+                <div className="portrait grow">
+                    <img src={frankfurt_15} alt="Frankfurt - Germany"/>
+                </div>
+                <div className="portrait grow">
+                    <img src={frankfurt_22} alt="Frankfurt - Germany"/>
+                </div>
+                <div className="portrait grow">
+                    <img src={frankfurt_28} alt="Frankfurt - Germany"/>
                 </div>
                 {/* <div className="normal grow">
           <img src={landscape28} alt="Portfolio pic" />
