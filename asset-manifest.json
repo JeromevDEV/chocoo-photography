@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/chocoo-photography/static/css/main.5187746c.chunk.css",
-    "main.js": "/chocoo-photography/static/js/main.734681ce.chunk.js",
-    "main.js.map": "/chocoo-photography/static/js/main.734681ce.chunk.js.map",
+    "main.js": "/chocoo-photography/static/js/main.043a3c5b.chunk.js",
+    "main.js.map": "/chocoo-photography/static/js/main.043a3c5b.chunk.js.map",
     "runtime-main.js": "/chocoo-photography/static/js/runtime-main.5f034e60.js",
     "runtime-main.js.map": "/chocoo-photography/static/js/runtime-main.5f034e60.js.map",
     "static/js/2.b9e3816d.chunk.js": "/chocoo-photography/static/js/2.b9e3816d.chunk.js",
@@ -53,6 +53,14 @@
     "static/media/dragon_building.62ece786.jpg": "/chocoo-photography/static/media/dragon_building.62ece786.jpg",
     "static/media/flims_1.4599b914.jpg": "/chocoo-photography/static/media/flims_1.4599b914.jpg",
     "static/media/flon_compressed.b57906a0.jpg": "/chocoo-photography/static/media/flon_compressed.b57906a0.jpg",
+    "static/media/frankfurt-14.5bb0356c.jpg": "/chocoo-photography/static/media/frankfurt-14.5bb0356c.jpg",
+    "static/media/frankfurt-15.8a3f069f.jpg": "/chocoo-photography/static/media/frankfurt-15.8a3f069f.jpg",
+    "static/media/frankfurt-22.9db1e2f5.jpg": "/chocoo-photography/static/media/frankfurt-22.9db1e2f5.jpg",
+    "static/media/frankfurt-28.9b8fa26d.jpg": "/chocoo-photography/static/media/frankfurt-28.9b8fa26d.jpg",
+    "static/media/frankfurt-3.b994c512.jpg": "/chocoo-photography/static/media/frankfurt-3.b994c512.jpg",
+    "static/media/frankfurt-4.6ab17512.jpg": "/chocoo-photography/static/media/frankfurt-4.6ab17512.jpg",
+    "static/media/frankfurt-5.3cc91e0a.jpg": "/chocoo-photography/static/media/frankfurt-5.3cc91e0a.jpg",
+    "static/media/frankfurt-6.04f9c2d6.jpg": "/chocoo-photography/static/media/frankfurt-6.04f9c2d6.jpg",
     "static/media/glass_building.e75976e5.jpg": "/chocoo-photography/static/media/glass_building.e75976e5.jpg",
     "static/media/invalides.b56b0601.jpg": "/chocoo-photography/static/media/invalides.b56b0601.jpg",
     "static/media/home.page.styles.scss": "/chocoo-photography/static/media/landscape0.71f07848.jpg",
@@ -82,6 +90,6 @@
     "static/js/runtime-main.5f034e60.js",
     "static/js/2.b9e3816d.chunk.js",
     "static/css/main.5187746c.chunk.css",
-    "static/js/main.734681ce.chunk.js"
+    "static/js/main.043a3c5b.chunk.js"
   ]
 }
